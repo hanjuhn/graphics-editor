@@ -8,8 +8,8 @@ Graphics-Editor는 Composite 패턴을 적용하여 구현한 그림판 프로�
 ---
 
 ## 🛠️ Software Architecture | 설계 구조
-![architecture_1.png](https://github.com/user-attachments/assets/e5da56f6-da7b-4c44-8af1-ae9c56495f51)
-![architecture_2.png](https://github.com/user-attachments/assets/adbc2b7c-fb91-4c6d-9bae-a7454e5d45d9)
+![architecture_1.png](https://github.com/user-attachments/assets/4a07922d-440a-418a-b8e5-9f09abd41b73)
+![architecture_2.png](https://github.com/user-attachments/assets/41e6b404-134b-49d0-91cc-3ad3bb197341)
 
 ---
 
